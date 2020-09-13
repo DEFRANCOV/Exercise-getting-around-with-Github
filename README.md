@@ -4,7 +4,7 @@ I am lost but I am trying my best
 
 Val is learning GIT
 
-![Image1](./images/Image1.JPG)
+![Image1](./images/Image1.jpg)
 
 ## Description
 
